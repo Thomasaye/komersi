@@ -1,0 +1,8 @@
+{
+  "name": "Komersi",
+  "description": "Place de marché agropastorale et négoce de matières premières tropicales du Bénin : vente au détail, demi-gros et gros avec commande directe sur WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
